@@ -10,8 +10,8 @@ install2.r --error --skipmissing \
     rstanarm \
     bayesplot \
     # geo science https://couttsgeodata.netlify.app/post/2021-02-28-r_geoscience/ ============================
-    GEOmap \
-    geomapdata \
+    # GEOmap \
+    # geomapdata \
     terrainr \
     terrainmeshr \
     geotoolsR \
@@ -106,6 +106,7 @@ install2.r --error --skipmissing \
     rcosmo \
     isocir \
     RiemBase \
+    OptCirClust \
     #climate ============================================================================
     weatherr \
     metR \
