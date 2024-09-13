@@ -1,1 +1,19 @@
+version: "3.7"
+services:
+  rstudio:
+    image: rocker_geo
+    build :
+      context: .
+      dockerfile: ./rstudio.dockerfile
+    container_name: rocker_geo
+    environment:
+      - USERNAME=rstudio
+      - PASSWORD=rstudio1234
+      - TZ=Asia/Tokyo
+      - root=TRUE
+    ports:
+      - 7188:8787
+    working_dir: /work
+    tty: true
+    restart: always
 
