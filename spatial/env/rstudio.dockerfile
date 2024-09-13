@@ -33,7 +33,7 @@ RUN mkdir /work && \
 COPY ./shell/ /work/env/
 
 WORKDIR /work/env/
-RUN sudo ./Rlibrary.sh
+RUN sudo ./R_library.sh
 
 #catdap2ext
 RUN mkdir /work/catdap
