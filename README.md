@@ -1,6 +1,4 @@
 # Fields of interest
-## Spatial-temporal
-
-## Directional
-
-## Bayes
+- Directional Statistics
+- Spatial-Temporal Statistics
+- Bayesian Statistics
