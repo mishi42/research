@@ -1,1 +1,6 @@
-# Analysis for Spatial data
+# Fields of interest
+## Spatial-temporal
+
+## Directional
+
+## Bayes
