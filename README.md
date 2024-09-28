@@ -1,5 +1,6 @@
 # Fields of interest
-- Directional Statistics
-- Spatial Statistics
-- Machine Learning
-- Financial Statistics
+- Directional Statistics/Non-Euclidian Statitics
+- Spatial Statistics/Spatial-Temporal Statistics
+- Statistical Machine Learning
+- Predictive Analysis
+- Applied Statistics
