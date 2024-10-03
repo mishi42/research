@@ -3,4 +3,4 @@
 - Spatial Statistics/Spatial-Temporal Statistics
 - Baysian modeling
 - Anomaly detection
-- Statistical Modeling/Predictive Analysis
+- Predictive Analysis
