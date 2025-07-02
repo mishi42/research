@@ -1,6 +1,5 @@
 # Fields of interest
-- Directional Statistics/Non-Euclidian Statitics
-- Spatial Statistics/Spatial-Temporal Statistics
 - Baysian modeling
-- Anomaly detection
+- Spatial Statistics/Spatial-Temporal Statistics
+- Directional Statistics/Non-Euclidian Statitics
 - Predictive Analysis
